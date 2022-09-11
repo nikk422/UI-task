@@ -1,0 +1,25 @@
+.sidebar-container {
+    height:90vh;
+    color: rgb(100, 96, 96);
+
+}
+
+.lib-sidebar ul{
+    display:flex;
+    flex-direction:column;
+    gap: 2rem;
+    font-size: 1.1rem;
+    padding:0.8rem;
+
+}
+.lib-sidebar li span{
+    margin-left:0.8rem;
+}
+.hoverText:hover{
+    background-color:rgb(195, 226, 235);
+    color:rgb(72, 108, 228);
+    padding:0.2rem;
+    border-right:2px solid blue;
+    cursor: pointer;
+
+}

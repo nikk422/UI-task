@@ -1,0 +1,92 @@
+.orders-container{
+    background-color:white;
+    margin: 0.5rem;
+    height:57vh;
+}
+
+
+.orders-btn-contain{
+    display:flex;
+    justify-content:space-between;
+    padding: 2rem;
+}
+
+
+.refresh-btn{
+    width:6.2vw;
+    padding: 0.4rem;
+    background-color:rgb(48, 60, 238);
+    color:white;
+    border: none;
+}
+
+.refreshIcon{
+    margin:0.3rem;
+}
+
+.section3{
+    display:flex;
+    gap:2rem;
+}
+.order-btn{
+    width:8vw;
+    padding: 0.5rem;
+    border: 1px solid;
+    color: rgb(189, 181, 181);
+}
+
+.importBtn{
+    background-color: white;
+    color: black;
+}
+
+.paginaton{
+    display:flex;
+    justify-content: flex-end;
+    gap:0.5rem;
+}
+
+.arrowBtn{
+    padding:0.2rem;
+    background-color:white
+}
+.count{
+    border:2px solid rgb(48, 60, 238);
+    padding:0.3rem;
+    color:rgb(48, 60, 238);
+}
+.pagesBtn{
+    padding:0.5rem;
+    border:1px solid rgb(100, 96, 96);
+    background-color:white;
+    color: rgb(100, 96, 96);
+
+}
+
+.section4{
+    display: flex;
+    gap:3rem;
+    padding:0.8rem;
+    margin-left: 5rem;
+    color: rgb(80, 74, 74);
+    border-bottom: 2px solid rgb(233, 226, 226);
+    /* font-weight: bold; */
+
+
+}
+.section5{
+    display: flex;
+    gap:3rem;
+    padding:0.8rem;
+    /* margin-left: rem; */
+    color: rgb(100, 96, 96);
+    border-bottom: 2px solid rgb(236, 234, 234);
+
+}
+
+.list-container{
+    height:25vh;
+    overflow: auto;
+
+}
+

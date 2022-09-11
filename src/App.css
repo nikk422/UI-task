@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Libre+Bodoni:ital@1&family=Montserrat:wght@200&family=Mukta:wght@300&family=Oleo+Script+Swash+Caps:wght@700&family=Permanent+Marker&family=Playfair+Display+SC&family=Roboto+Slab&family=Rubik+Wet+Paint&family=Satisfy&family=Shadows+Into+Light&family=Tapestry&family=Tiro+Gurmukhi&display=swap');
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Tiro Gurmukhi', serif;
+
+}
+html{
+  font-size: 16px;
+}
+
+li{
+  list-style: none;
+}
+
+.main-contain{
+  display: grid;
+  grid-template-columns: 10rem 1fr;
+}
+
+:root{
+  --primary-color:rgb(234, 239, 240);
+  
+}

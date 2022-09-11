@@ -1,0 +1,38 @@
+.home-container{
+    background-color:rgb(234, 239, 240);
+    height: 92vh;
+    margin-top: 0.3rem;
+    display:flex;
+    flex-direction: column;
+    gap:1.2rem;
+    width: 98.9%;
+}
+.section-1{
+    display:flex;
+    justify-content:space-between;
+    margin: 0.5rem;
+}
+
+.section-2{
+    display:flex;
+    gap: 1.5rem;
+    margin: 0.9rem;
+    color: rgb(100, 96, 96);
+}
+.order-btn-home{
+    padding: 0.4rem;
+    background-color:white;
+    color: rgb(68, 118, 194);
+    font-size: 1.2rem;
+
+}
+.close-icon{
+    color: grey;
+    font-size:1.4rem;
+}
+
+.active-title{
+    color: rgb(68, 118, 194);
+    border-bottom: 3px solid rgb(68, 118, 194);
+    padding-bottom:1rem;
+}
